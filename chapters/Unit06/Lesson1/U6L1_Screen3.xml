@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 6 : Heat and Light</B>]]></title>
+<title><![CDATA[<B>How much you know?</B>]]></title>
+<text><![CDATA[<B>Look at each picture and say whether it gives heat, light, or both. Click on the correct option.</B>]]></text>
+<text><![CDATA[<B>heat</B>]]></text>
+<text><![CDATA[<B>light</B>]]></text>
+<text><![CDATA[<B>both</B>]]></text>
+
+<feedback>
+<correct><![CDATA[That's right! Well done!]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops..., that's incorrect again.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better next time. Try again. ]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[That was excellent! Well done!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+</data>
+</framexml>  

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click on either True or False for each of these sentences.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That's correct. Well done!]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct.]]></wrong1>
+<wrong2><![CDATA[Err... no that isn't correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[You can do better.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Excellent score! Congratulations!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+
+</feedback>
+
+<question1>
+<text><![CDATA[1.]]></text>
+<text><![CDATA[The Moon orbits the Sun.]]></text>
+<answer1><![CDATA[2]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[The Earth takes 265 days to orbit the Sun.]]></text>
+<answer1><![CDATA[2]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[There are eight planets in our solar system.]]></text>
+<answer1><![CDATA[1]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[The universe is the whole of space and everything in it.]]></text>
+<answer1><![CDATA[1]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[The Earth is the closest planet to the Sun.]]></text>
+<answer1><![CDATA[2]]></answer1>
+</question5>
+
+
+<true><![CDATA[<B>True</B>]]></true>
+<false><![CDATA[<B>False</B>]]></false>
+
+
+
+</data>
+</framexml>  

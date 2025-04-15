@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 7: Water, Weather, Wind</b>]]></title>
+<title><![CDATA[<b>Uses of Water and Wind</b>]]></title>
+
+
+
+<Caption><![CDATA[<b>water</b>]]></Caption>
+<Caption><![CDATA[<b>weather</b>]]></Caption>
+<Caption><![CDATA[<b>wind</b>]]></Caption>
+
+
+<heading><![CDATA[<b>Uses of water</b>]]></heading>
+<heading><![CDATA[<b>Uses of wind</b>]]></heading>
+<rubric><![CDATA[<b>Click on each picture to know about some uses of water.</b>]]></rubric>
+<rubric><![CDATA[<b>Click on each picture to know about the uses of wind.</b>]]></rubric>
+
+
+<!-- Scene2 -->
+<text><![CDATA[We use water for drinking.]]></text>
+<text><![CDATA[We use water for bathing.]]></text>
+<text><![CDATA[We use water to cook food. ]]></text>
+<text><![CDATA[We use water to wash clothes.]]></text>
+<text><![CDATA[We use water transport to travel short or long distances.]]></text>
+
+<!-- Scene3-->
+<text><![CDATA[Wind is moving air.]]></text>
+<text><![CDATA[It is there but we don't see it.]]></text>
+<text><![CDATA[Wind keeps us cool.]]></text>
+<text><![CDATA[Wind dries our clothes.]]></text>
+<text><![CDATA[Wind helps our kites to fly.]]></text>
+<text><![CDATA[Wind makes our sailboats go.]]></text>
+
+
+
+
+
+
+</data>
+</framexml>  

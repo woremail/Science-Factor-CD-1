@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 2 : The Animal World</b>]]></titel>
+<titel><![CDATA[<b>Types of Animals</b>]]></titel>
+
+
+<rubric><![CDATA[<b>Click on any of the animals to know more about their types.</b>]]></rubric>
+<rubric><![CDATA[<B>Some animals are big.</B>]]></rubric>
+<rubric><![CDATA[<B>Some animals are small.</B>]]></rubric>
+
+
+<text><![CDATA[<b>seeing</b>]]></text>
+<text><![CDATA[<b>smelling</b>]]></text>
+<text><![CDATA[<b>touching</b>]]></text>
+<text><![CDATA[<b>hearing</b>]]></text>
+<text><![CDATA[<b>tasting</b>]]></text>
+
+
+
+
+
+
+
+
+
+
+
+</data>
+</framexml>  

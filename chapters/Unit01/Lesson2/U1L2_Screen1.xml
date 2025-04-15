@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 1 : The Human Body</b>]]></titel>
+<titel><![CDATA[<b>Your senses</b>]]></titel>
+
+
+<rubric><![CDATA[<b>Click on each of these pictures to know how each of your sense organs helps you.</b>]]></rubric>
+
+
+<text><![CDATA[<b>sight</b>]]></text>
+<text><![CDATA[<b>smell</b>]]></text>
+<text><![CDATA[<b>touch</b>]]></text>
+<text><![CDATA[<b>hearing</b>]]></text>
+<text><![CDATA[<b>taste</b>]]></text>
+
+
+
+
+
+
+
+
+
+
+
+</data>
+</framexml>  

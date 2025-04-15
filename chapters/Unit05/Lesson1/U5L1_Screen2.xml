@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+<feedback>
+<correct><![CDATA[That is correct! Well done!]]></correct>
+<wrong1><![CDATA[That is the wrong answer]]></wrong1>
+<wrong2><![CDATA[Oh no! That is not correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[You can do better than this. ]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your Score:]]></Score>
+</feedback>
+
+<question1>
+<option1><![CDATA[<b>wood</b>]]></option1>
+<option2><![CDATA[<b>tiles</b>]]></option2>
+<option3><![CDATA[<b>glass</b>]]></option3>
+<option4><![CDATA[<b>bricks</b>]]></option4> 
+</question1>
+
+
+
+
+
+
+
+</data>
+</framexml>  

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 2 : The Animal World</b>]]></titel>
+<titel><![CDATA[<b>Pull the bridge</b>]]></titel>
+
+
+<rubric><![CDATA[<b>Click on the correct option for each of these statements.</b>]]></rubric>
+
+
+<text><![CDATA[<B>This is the fastest animal on land.</B>]]></text>
+<text><![CDATA[<B>snail</B>]]></text>
+<text><![CDATA[<B>leopard</B>]]></text>
+<text><![CDATA[<B>cheetah</B>]]></text>
+
+<text><![CDATA[<B>This animal has a hard shell to protect itself.</B>]]></text>
+<text><![CDATA[<B>porcupine</B>]]></text>
+<text><![CDATA[<B>tortoise</B>]]></text>
+<text><![CDATA[<B>cheetah</B>]]></text>
+
+<text><![CDATA[<B>This animal has sharp needles on its back.</B>]]></text>
+<text><![CDATA[<B>snail</B>]]></text>
+<text><![CDATA[<B>deer</B>]]></text>
+<text><![CDATA[<B>porcupine</B>]]></text>
+
+<text><![CDATA[<B>This animal has to hunt other animals to live.</B>]]></text>
+<text><![CDATA[<B>leopard</B>]]></text>
+<text><![CDATA[<B>deer</B>]]></text>
+<text><![CDATA[<B>tortoise</B>]]></text>
+
+<text><![CDATA[<B>This animal eats grass and other plants to live.</B>]]></text>
+<text><![CDATA[<B>tiger</B>]]></text>
+<text><![CDATA[<B>eagle</B>]]></text>
+<text><![CDATA[<B>deer</B>]]></text>
+
+<feedback>
+<correct><![CDATA[That's correct. Well done!]]></correct>
+<wrong1><![CDATA[Err... no! That isn't correct. Please try again.]]></wrong1>
+<rank1><![CDATA[Wow! That was excellent!]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+</data>
+</framexml>  

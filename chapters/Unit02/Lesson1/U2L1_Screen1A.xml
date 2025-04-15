@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 2 : The Animal World</b>]]></titel>
+<titel><![CDATA[<b>Types of Animals</b>]]></titel>
+
+<heading><![CDATA[<b>Land animals</b>]]></heading>
+<rubric><![CDATA[<b>Click on each picture to know more about land animals.</b>]]></rubric>
+
+
+<text><![CDATA[Land animals have bodies that help them to live on land.]]></text>
+<text><![CDATA[Most land animals have legs which help them to move around.]]></text>
+<text><![CDATA[Most land animals have hair or fur to keep them warm.]]></text>
+<text><![CDATA[Some land animals can move very fast.]]></text>
+<text><![CDATA[Some land animals are very slow.]]></text>
+
+
+<Caption><![CDATA[<b>tiger</b>]]></Caption>
+<Caption><![CDATA[<b>bear</b>]]></Caption>
+<Caption><![CDATA[<b>cheetah</b>]]></Caption>
+<Caption><![CDATA[<b>snail</b>]]></Caption>
+
+
+
+
+
+
+
+
+
+</data>
+</framexml>  

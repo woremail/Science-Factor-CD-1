@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 3 : Plants</b>]]></titel>
+<titel><![CDATA[<b>Picture Crossword</b>]]></titel>
+
+
+<rubric><![CDATA[<b>Solve the crossword puzzle using the picture clues. Drag the letters to the correct box. To try again, click RESET.</b>]]></rubric>
+
+
+<text><![CDATA[<B>A</B>]]></text>
+<text><![CDATA[<B>B</B>]]></text>
+<text><![CDATA[<B>C</B>]]></text>
+<text><![CDATA[<B>D</B>]]></text>
+<text><![CDATA[<B>E</B>]]></text>
+<text><![CDATA[<B>F</B>]]></text>
+<text><![CDATA[<B>G</B>]]></text>
+<text><![CDATA[<B>H</B>]]></text>
+<text><![CDATA[<B>I</B>]]></text>
+<text><![CDATA[<B>J</B>]]></text>
+<text><![CDATA[<B>K</B>]]></text>
+<text><![CDATA[<B>L</B>]]></text>
+<text><![CDATA[<B>M</B>]]></text>
+<text><![CDATA[<B>N</B>]]></text>
+<text><![CDATA[<B>O</B>]]></text>
+<text><![CDATA[<B>P</B>]]></text>
+<text><![CDATA[<B>Q</B>]]></text>
+<text><![CDATA[<B>R</B>]]></text>
+<text><![CDATA[<B>S</B>]]></text>
+<text><![CDATA[<B>T</B>]]></text>
+<text><![CDATA[<B>U</B>]]></text>
+<text><![CDATA[<B>V</B>]]></text>
+<text><![CDATA[<B>W</B>]]></text>
+<text><![CDATA[<B>X</B>]]></text>
+<text><![CDATA[<B>Y</B>]]></text>
+<text><![CDATA[<B>Z</B>]]></text>
+
+<feedback>
+<correct><![CDATA[That's correct!]]></correct>
+<correct><![CDATA[That's right!]]></correct>
+<correct><![CDATA[Good job!]]></correct>
+<wrong1><![CDATA[Oops! That isn't correct. Try again!]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Congratulations! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<reset_btn><![CDATA[<B>Reset</B>]]></reset_btn>
+
+
+</data>
+</framexml>  

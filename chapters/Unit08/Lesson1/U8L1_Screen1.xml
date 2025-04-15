@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 2 : Sound</b>]]></titel>
+<titel><![CDATA[<b>Recognizing different Sounds</b>]]></titel>
+
+<heading><![CDATA[<b>Sounds</b>]]></heading>
+<rubric><![CDATA[<b>Click on each picture to learn more about sound.</b>]]></rubric>
+
+
+<text><![CDATA[Some sounds are easy to hear.]]></text>
+
+<text><![CDATA[Some sounds are hard to hear.]]></text>
+
+<text><![CDATA[Some sounds make you feel good.]]></text>
+
+<text><![CDATA[Some sounds don't make you feel good.]]></text>
+
+
+</data>
+</framexml>  

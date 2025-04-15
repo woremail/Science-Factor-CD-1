@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 7: Water, Weather, Wind</B>]]></title>
+<title><![CDATA[<B>How much you know</B>]]></title>
+<rubric><![CDATA[<B>The picture shows something either related to water or wind. Drag the correct option to the blank space below the picture.</B>]]></rubric>
+
+<text><![CDATA[<B>water</B>]]></text>
+<text><![CDATA[<B>wind</B>]]></text>
+
+
+<feedback>
+<correct><![CDATA[That's correct. Well done!]]></correct>
+<wrong2><![CDATA[Er... no. Here is the correct answer.]]></wrong2>
+<wrong1><![CDATA[Oh no! That is not correct.]]></wrong1>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[You can do better.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+
+<Gameover><![CDATA[Game over]]></Gameover>
+</feedback>
+
+
+
+</data>
+</framexml>  

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 8: The Solar System</b>]]></titel>
+<titel><![CDATA[<b>Make you solar system</b>]]></titel>
+
+
+<rubric><![CDATA[<b>A solar system is made up of a large star and all the planets that orbit that star.</b>]]></rubric>
+<rubric><![CDATA[<b>Click on the solar system to see it in movement.</b>]]></rubric>
+<rubric><![CDATA[<b>There are many solar systems in the universe.</b>]]></rubric>
+<rubric><![CDATA[<b>The universe is the whole of space and everything in it.</b>]]></rubric>
+<rubric><![CDATA[<b>In our solar system, the star that the Earth orbits is called the Sun.</b>]]></rubric>
+<rubric><![CDATA[<b>Eight planets orbit the Sun.</b>]]></rubric>
+<rubric><![CDATA[<b>The eight planets are</b>]]></rubric>
+<rubric><![CDATA[<b>Click on the Earth to know more about it.</b>]]></rubric>
+
+<Caption><![CDATA[The Earth takes one year to travel all the way around the Sun.]]></Caption>
+<Caption><![CDATA[The Moon orbits the Earth.]]></Caption>
+<Caption><![CDATA[one year]]></Caption>
+
+<text><![CDATA[Mercury]]></text>
+<text><![CDATA[Venus]]></text>
+<text><![CDATA[Earth]]></text>
+<text><![CDATA[Mars]]></text>
+<text><![CDATA[Jupiter]]></text>
+<text><![CDATA[Saturn]]></text>
+<text><![CDATA[Uranus]]></text>
+<text><![CDATA[Neptune]]></text>
+
+
+
+</data>
+</framexml>  

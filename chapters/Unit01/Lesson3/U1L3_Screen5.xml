@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 1 : The Human Body</b>]]></title>
+<title><![CDATA[<b>Healthy Habits </b>]]></title>
+
+
+<rubric><![CDATA[<b>Click on the correct word from the two options to complete each sentence.</b>]]></rubric>
+
+
+<text><![CDATA[1.]]></text>
+<text><![CDATA[_____________ is the most important meal of the day.]]></text>
+<text><![CDATA[<b>breakfast</b>]]></text>
+<text><![CDATA[<b>tea</b>]]></text>
+
+<text><![CDATA[2.]]></text>
+<text><![CDATA[Eating _____________ is healthy.]]></text>
+<text><![CDATA[<b>fruits</b> ]]></text>
+<text><![CDATA[<b>cakes</b>]]></text>
+
+<text><![CDATA[3.]]></text>
+<text><![CDATA[Drinking _____________ is unhealthy.]]></text>
+<text><![CDATA[<b>milk</b>]]></text>
+<text><![CDATA[<b>cola</b>]]></text>
+
+<text><![CDATA[4.]]></text>
+<text><![CDATA[Resting is _____________ for health.]]></text>
+<text><![CDATA[<b>bad</b>]]></text>
+<text><![CDATA[<b>good</b>]]></text>
+
+<text><![CDATA[5.]]></text>
+<text><![CDATA[Exercise keeps us _____________.]]></text>
+<text><![CDATA[<b>sick</b>]]></text>
+<text><![CDATA[<b>fit</b>]]></text>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong2><![CDATA[No! That isn't correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+
+</data>
+</framexml>  

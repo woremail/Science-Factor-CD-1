@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 2 : The Animal World</b>]]></titel>
+<titel><![CDATA[<b>Types of Animals</b>]]></titel>
+
+<heading><![CDATA[<b>Air animals</b>]]></heading>
+<rubric><![CDATA[<b>Click on each label to know more about birds.</b>]]></rubric>
+
+
+<text><![CDATA[Air animals have bodies that help them to lift up and stay up in the air.]]></text>
+<text><![CDATA[Birds have wings that help them to take off, fly, and land.]]></text>
+<text><![CDATA[Birds have feathers to help them glide through the air.]]></text>
+<text><![CDATA[Feathers help birds to keep their bodies warm and keep rain off them.]]></text>
+<text><![CDATA[Most birds have beaks to help them pick up grains and seeds to eat.]]></text>
+
+
+<Caption><![CDATA[<b>bird</b>]]></Caption>
+<Caption><![CDATA[<b>bat</b>]]></Caption>
+<Caption><![CDATA[<b>butterfly</b>]]></Caption>
+
+
+
+<teg><![CDATA[beak]]></teg>
+<teg><![CDATA[wing]]></teg>
+<teg><![CDATA[feathers]]></teg>
+
+
+</data>
+</framexml>  

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click on the correct option that should appear in the blank space in the sentence.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That is correct! Well done!]]></correct>
+<wrong1><![CDATA[Er...no, this is not the correct answer. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oh no! That is not correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+
+</feedback>
+
+<question1>
+<text><![CDATA[1.]]></text>
+<text><![CDATA[We need __________ to build window panes.]]></text>
+<option1><![CDATA[<b>bricks</b>]]></option1>
+<option2><![CDATA[<b>glass</b>]]></option2>
+<option3><![CDATA[<b>rubber</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[We need __________ to build walls for houses.]]></text>
+<option1><![CDATA[<b>bricks</b>]]></option1>
+<option2><![CDATA[<b>plastic</b>]]></option2>
+<option3><![CDATA[<b>iron</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[We need __________ to build tyres for cars.]]></text>
+<option1><![CDATA[<b>plastic</b>]]></option1>
+<option2><![CDATA[<b>iron</b>]]></option2>
+<option3><![CDATA[<b>rubber</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[We need __________ to plaster the walls of houses.]]></text>
+<option1><![CDATA[<b>bricks</b>]]></option1>
+<option2><![CDATA[<b>cement</b>]]></option2>
+<option3><![CDATA[<b>sponge</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[We need __________ to make the roofs of houses.]]></text>
+<option1><![CDATA[<b>iron</b>]]></option1>
+<option2><![CDATA[<b>sand</b>]]></option2>
+<option3><![CDATA[<b>tiles</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question5>
+
+
+
+
+
+</data>
+</framexml>  

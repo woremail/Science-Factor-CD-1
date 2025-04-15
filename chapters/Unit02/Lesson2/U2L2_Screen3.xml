@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 1 : The Human Body</B>]]></title>
+<title><![CDATA[<B>Parts of the human body </B>]]></title>
+
+<text><![CDATA[<b>Is the statement Right or Wrong? Click on the correct option.</b>]]></text>
+
+<text><![CDATA[1.]]></text>
+<text><![CDATA[The cheetah is the fastest land animal.]]></text>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[A tortoise doesn't have a protective shell.]]></text>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[Snails are fast moving animals.]]></text>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[Ducks swim in water.]]></text>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[A deer has sharp needles on its back to protect itself.]]></text>
+<text><![CDATA[<B>Right</B>]]></text>
+<text><![CDATA[<B>Wrong</B>]]></text>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong2><![CDATA[Oops! That's not right.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

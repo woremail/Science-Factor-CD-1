@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 2 : The Animal World</b>]]></titel>
+<titel><![CDATA[<b>Types of Animals</b>]]></titel>
+
+<heading><![CDATA[<b>Water animals</b>]]></heading>
+<rubric><![CDATA[<b>Click on any of the labels to know more about water animals.</b>]]></rubric>
+
+
+<text><![CDATA[Water animals have bodies that help them to live in water.]]></text>
+<text><![CDATA[Many water animals have fins to help them swim.]]></text>
+<text><![CDATA[Many water animals have gills to help them breathe underwater.]]></text>
+<text><![CDATA[Some water animals like dolphins and whales do not have gills. They have to put their heads above the water surface to breathe.]]></text>
+
+
+<Caption><![CDATA[<b>fish</b>]]></Caption>
+<Caption><![CDATA[<b>octopus</b>]]></Caption>
+<Caption><![CDATA[<b>eel</b>]]></Caption>
+<Caption><![CDATA[<b>dolphin</b>]]></Caption>
+
+
+
+<teg><![CDATA[fin]]></teg>
+<teg><![CDATA[gill]]></teg>
+
+
+</data>
+</framexml>  

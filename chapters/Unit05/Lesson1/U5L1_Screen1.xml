@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 2 : The Animal World</b>]]></titel>
+<titel><![CDATA[<b>Types of Animals</b>]]></titel>
+
+<heading><![CDATA[<b>Types of materials</b>]]></heading>
+<rubric><![CDATA[<b>Click on any of these pictures to know more about each type of material.</b>]]></rubric>
+
+
+<text><![CDATA[Materials can be soft.]]></text>
+<text><![CDATA[Materials can be smooth.]]></text>
+<text><![CDATA[Materials can be rough.]]></text>
+<text><![CDATA[Materials can be hard.]]></text>
+<text><![CDATA[Materials can be elastic.]]></text>
+
+
+
+
+
+</data>
+</framexml>  

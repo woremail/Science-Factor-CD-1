@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 3 : Plants</b>]]></title>
+<title><![CDATA[<b>Parts of a Plant</b>]]></title>
+
+<rubric><![CDATA[<B>Click on any of the labels to know more about each part of the plant.</B>]]></rubric>
+
+<text><![CDATA[Seeds are made and stored in the flower.]]></text>
+<text><![CDATA[The stem supports the other parts of the plant.]]></text>
+<text><![CDATA[The stem also moves water to other parts of the plant.]]></text>
+<text><![CDATA[Food is made in the leaves for the plant to live and grow.]]></text>
+<text><![CDATA[The roots support the plant in the ground.]]></text>
+<text><![CDATA[The roots take in water from the ground for the plant.]]></text>
+
+<teg><![CDATA[flower]]></teg>
+<teg><![CDATA[roots]]></teg>
+<teg><![CDATA[stem]]></teg>
+<teg><![CDATA[leaves]]></teg>
+
+
+</data>
+</framexml>  

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 2 : Plants</b>]]></titel>
+<titel><![CDATA[<b>How plants are useful</b>]]></titel>
+
+
+<rubric><![CDATA[<b>Click on each label to know more about how plants are useful.</b>]]></rubric>
+
+
+<text><![CDATA[oxygen]]></text>
+<text><![CDATA[food]]></text>
+<text><![CDATA[firewood]]></text>
+<text><![CDATA[clothes]]></text>
+<text><![CDATA[furniture]]></text>
+<text><![CDATA[shelter]]></text>
+<text><![CDATA[medicine]]></text>
+<text><![CDATA[paper]]></text>
+
+<text><![CDATA[Plants make oxygen.]]></text>
+<text><![CDATA[Oxygen is a gas which we need to breathe.]]></text>
+
+<text><![CDATA[Humans get fruits and vegetables from plants.]]></text>
+
+<text><![CDATA[Fire from burning wood is used for cooking and keeping us warm.]]></text>
+
+<text><![CDATA[Wood from plants is used to make furniture.]]></text>
+<text><![CDATA[The chairs and desks are made from wood provided by plants.]]></text>
+
+<text><![CDATA[Cotton clothes are made from a plant.]]></text>
+
+<text><![CDATA[Humans use trees to make shelters.]]></text>
+
+<text><![CDATA[Some plants are used as medicine.]]></text>
+
+<text><![CDATA[These plants contain things that can cure illness.]]></text>
+
+<text><![CDATA[Paper is made from trees.]]></text>
+
+<text><![CDATA[Wood pulp from trees is used to make paper.]]></text>
+
+
+</data>
+</framexml>  

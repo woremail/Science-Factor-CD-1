@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 3 : Plants</b>]]></title>
+<title><![CDATA[<b>Parts of a Plant</b>]]></title>
+
+<rubric><![CDATA[<B>Click on the correct option for each sentence.</B>]]></rubric>
+<text><![CDATA[<B>Humans use water to cook food.</B>]]></text>
+<text><![CDATA[<B>Humans use water to dry clothes.</B>]]></text>
+<text><![CDATA[<B>Wind is moving air.</B>]]></text>
+<text><![CDATA[<B>Humans use water transport to travel long distances.</B>]]></text>
+<text><![CDATA[<B>Wind makes our sailboats go.</B>]]></text>
+
+<true><![CDATA[<B>True</B>]]></true>
+<false><![CDATA[<B>False</B>]]></false>
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[No, that's not right.]]></wrong1>
+<wrong2><![CDATA[No, that's not right.]]></wrong2>
+<showanswer><![CDATA[The correct answer is.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better next time.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Excellent! Well done!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+
+<Gameover><![CDATA[Game over]]></Gameover>
+
+
+</feedback>
+
+</data>
+</framexml>  

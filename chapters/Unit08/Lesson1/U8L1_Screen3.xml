@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 8 : Sound</B>]]></title>
+<title><![CDATA[<B>How much you know</B>]]></title>
+<text><![CDATA[<B>Each of these objects either makes a pleasant sound or an unpleasant sound. Listen to the sound and click the correct option.</B>]]></text>
+
+<text><![CDATA[<B>pleasant</B>]]></text>
+<text><![CDATA[<B>unpleasant</B>]]></text>
+
+<feedback>
+<correct><![CDATA[That's correct. Well done!]]></correct>
+<wrong1><![CDATA[Not really. Here's the correct answer.]]></wrong1>
+<wrong2><![CDATA[Not really. Here's the correct answer.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[You can do better.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Superb!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+</data>
+</framexml>  

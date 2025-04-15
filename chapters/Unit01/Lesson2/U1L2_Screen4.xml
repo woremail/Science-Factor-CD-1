@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 1 : The Human Body</b>]]></title>
+<title><![CDATA[<b>Parts of the Human Body</b>]]></title>
+
+<rubric><![CDATA[<b>Match the following with the sense organ shown.</b>]]></rubric>
+
+<text><![CDATA[<b>Column 1</b>]]></text>
+<text><![CDATA[<B>Fire</B>]]></text>
+<text><![CDATA[<B>Sweets</B>]]></text>
+<text><![CDATA[<B>Audio system</B>]]></text>
+<text><![CDATA[<B>Flowers</B>]]></text>
+<text><![CDATA[<B>Television</B>]]></text>
+
+<text><![CDATA[<b>Column 2</b>]]></text>
+<text><![CDATA[<B>Nose</B>]]></text>
+<text><![CDATA[<B>Tongue</B>]]></text>
+<text><![CDATA[<B>Eyes</B>]]></text>
+<text><![CDATA[<B>Ear</B>]]></text>
+<text><![CDATA[<B>Skin</B>]]></text>
+
+
+
+<caption_n><![CDATA[We can feel it with our...]]></caption_n>
+<caption_n><![CDATA[We can taste them with our...]]></caption_n>
+<caption_n><![CDATA[We can hear it with our...]]></caption_n>
+<caption_n><![CDATA[We can smell them with our...]]></caption_n>
+<caption_n><![CDATA[We can watch it with our...]]></caption_n>
+<caption_n><![CDATA[Skin]]></caption_n>
+<caption_n><![CDATA[Skin]]></caption_n>
+<caption_n><![CDATA[Skin]]></caption_n>
+<caption_n><![CDATA[Skin]]></caption_n>
+<caption_n><![CDATA[Skin]]></caption_n>
+
+
+
+
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[No! That isn't correct.]]></wrong1>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

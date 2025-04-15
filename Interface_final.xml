@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<pop><![CDATA[Hi there! I am Bunny - the rabbit!]]></pop>
+<pop><![CDATA[Today, I am here to help you learn more about your health, family,]]></pop>
+<pop><![CDATA[school, and other parts of your daily life.]]></pop>
+<pop><![CDATA[To proceed, just click any of the units on the screen!]]></pop>
+<pop><![CDATA[Now click any one of the lessons.]]></pop>
+<pop><![CDATA[Click any one of the units.]]></pop>
+<pop><![CDATA[Now click the lesson.]]></pop>
+
+
+<unit>
+	<Num><![CDATA[01]]></Num>
+	<name><![CDATA[Unit 1 : The human body ]]></name>
+	<lesson>
+		<name><![CDATA[Parts of the human body]]></name>
+		<path><![CDATA[chapters/Unit01/Lesson1/U1L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit01/Lesson1/U1L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit01/Lesson1/U1L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit01/Lesson1/U1L1_Screen4.swf]]></path>
+		<path><![CDATA[chapters/Unit01/Lesson1/U1L1_Screen5.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Your senses]]></name>
+		<path><![CDATA[chapters/Unit01/Lesson2/U1L2_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit01/Lesson2/U1L2_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit01/Lesson2/U1L2_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit01/Lesson2/U1L2_Screen4.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Staying healthy]]></name>
+		<path><![CDATA[chapters/Unit01/Lesson3/U1L3_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit01/Lesson3/U1L3_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit01/Lesson3/U1L3_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit01/Lesson3/U1L3_Screen4.swf]]></path>
+		<path><![CDATA[chapters/Unit01/Lesson3/U1L3_Screen5.swf]]></path>
+		<path><![CDATA[chapters/Unit01/Lesson3/U1L3_Screen6.swf]]></path>
+	</lesson>
+</unit>
+
+
+<unit>
+<Num><![CDATA[02]]></Num>
+	<name><![CDATA[Unit 2 : The animal world ]]></name>
+	<lesson>
+		<name><![CDATA[Types of animals]]></name>
+		<path><![CDATA[chapters/Unit02/Lesson1/U2L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit02/Lesson1/U2L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit02/Lesson1/U2L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit02/Lesson1/U2L1_Screen4.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Animal movement]]></name>
+		<path><![CDATA[chapters/Unit02/Lesson2/U2L2_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit02/Lesson2/U2L2_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit02/Lesson2/U2L2_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit02/Lesson2/U2L2_Screen4.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+<Num><![CDATA[03]]></Num>
+	<name><![CDATA[Unit 3 : The plant world]]></name>
+	<lesson>
+		<name><![CDATA[Parts of a plant]]></name>
+		<path><![CDATA[chapters/Unit03/Lesson1/U3L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit03/Lesson1/U3L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit03/Lesson1/U3L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit03/Lesson1/U3L1_Screen4.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[How plants are useful]]></name>
+		<path><![CDATA[chapters/Unit03/Lesson2/U3L2_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit03/Lesson2/U3L2_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit03/Lesson2/U3L2_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit03/Lesson2/U3L2_Screen4.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+<Num><![CDATA[04]]></Num>
+	<name><![CDATA[Unit 5 : Materials]]></name>
+	<lesson>
+		<name><![CDATA[Types and uses of materials]]></name>
+		<path><![CDATA[chapters/Unit05/Lesson1/U5L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit05/Lesson1/U5L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit05/Lesson1/U5L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit05/Lesson1/U5L1_Screen4.swf]]></path>
+		<path><![CDATA[chapters/Unit05/Lesson1/U5L1_Screen5.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+<Num><![CDATA[05]]></Num>
+	<name><![CDATA[Unit 6 : Heat and light]]></name>
+	<lesson>
+		<name><![CDATA[Uses of heat and light]]></name>
+		<path><![CDATA[chapters/Unit06/Lesson1/U6L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit06/Lesson1/U6L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit06/Lesson1/U6L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit06/Lesson1/U6L1_Screen4.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+<Num><![CDATA[06]]></Num>
+	<name><![CDATA[Unit 7 : Water, weather, and wind]]></name>
+	<lesson>
+		<name><![CDATA[Uses of water and wind]]></name>
+		<path><![CDATA[chapters/Unit07/Lesson1/U7L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit07/Lesson1/U7L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit07/Lesson1/U7L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit07/Lesson1/U7L1_Screen4.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+<Num><![CDATA[07]]></Num>
+	<name><![CDATA[Unit 8 : Sound]]></name>
+	<lesson>
+		<name><![CDATA[Recognizing different sounds]]></name>
+		<path><![CDATA[chapters/Unit08/Lesson1/U8L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit08/Lesson1/U8L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit08/Lesson1/U8L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit08/Lesson1/U8L1_Screen4.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+<Num><![CDATA[08]]></Num>
+	<name><![CDATA[Unit 9 : The solar system]]></name>
+	<lesson>
+		<name><![CDATA[The planets and their movement around the Sun]]></name>
+		<path><![CDATA[chapters/Unit09/Lesson1/U9L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit09/Lesson1/U9L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit09/Lesson1/U9L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit09/Lesson1/U9L1_Screen4.swf]]></path>
+	</lesson>
+</unit>
+
+
+
+
+</data>
+</framexml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 8 : Sound</b>]]></titel>
+<titel><![CDATA[<b>Maze</b>]]></titel>
+
+
+<rubric><![CDATA[<b>What's making the sound? Click on the correct option to answer.</b>]]></rubric>
+
+
+
+
+<feedback>
+<correct><![CDATA[That's correct. Well done!]]></correct>
+<wrong2><![CDATA[Oh no! That is not correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Superb! You are an excellent player!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+<correct><![CDATA[]]></correct>
+<incorrect><![CDATA[]]></incorrect>
+<endFeedBack><![CDATA[]]></endFeedBack>
+
+</data>
+</framexml>  
